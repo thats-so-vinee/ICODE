@@ -1,0 +1,58 @@
+* {
+  color: white;
+  background-color: rgb(12, 119, 113);
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+#student-form {
+  margin-left: 370px;
+}
+h1 {
+  text-align: center;
+}
+input {
+  background: blanchedalmond;
+  border: none;
+  height: 30px;
+  margin: 10px 0;
+  width: 600px;
+  border-radius: 5px;
+  color: black;
+}
+label {
+  padding: 10px 0px;
+}
+.btn {
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+.btn-success {
+  background-color: rgb(228, 145, 11);
+  width: 80px;
+  font-size: 15px;
+}
+.btn-warning {
+  background-color: rgb(230, 199, 25);
+  margin-right: 10px;
+}
+.btn-danger {
+  background-color: rgb(150, 232, 9);
+}
+.table {
+  padding-top: 40px;
+  margin-left: 290px;
+}
+.table th {
+  padding: 10px 110px 10px 10px;
+  border-bottom: 1px solid rgb(37, 33, 33);
+  background: rgb(22, 20, 20);
+}
+.table td {
+  padding: 10px 110px 10px 10px;
+  background: rgb(50, 46, 46);
+}
